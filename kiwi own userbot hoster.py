@@ -28,7 +28,7 @@ from telegram.ext import (
     MessageHandler, filters, ContextTypes
 )
 
-API_ID    = 39482130
+API_ID    = 33856248
 API_HASH  = "c4e9d2b348395b5ebb14fff58c1f1bd6"
 BOT_TOKEN = "8709403907:AAGexSlk7Ct74ssDpk5sHUyi6jIC06I3N5Y"
 OWNER_ID  = 7207873383
