@@ -31,7 +31,7 @@ from telegram.ext import (
 API_ID    = 39482130
 API_HASH  = "c4e9d2b348395b5ebb14fff58c1f1bd6"
 BOT_TOKEN = "8709403907:AAGexSlk7Ct74ssDpk5sHUyi6jIC06I3N5Y"
-OWNER_ID  = 8592951575
+OWNER_ID  = 7207873383
 SESSION_NAME = "kiwi_session"
 
 START_TIME   = datetime.now()
